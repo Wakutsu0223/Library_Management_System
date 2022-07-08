@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: jdbc/mysql-connector-java-8.0.29.jar
+Main-Class: com.book.view.LogOnFrm
+
