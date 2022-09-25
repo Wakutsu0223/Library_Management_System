@@ -10,7 +10,7 @@
 > t_borrow：存储读者借阅图书信息
 > t_history：存储历史借阅记录
 > t_audit：存储待审核新用户
-![1](.\img\1.png)
+![1](https://s1.328888.xyz/2022/09/25/VfwSd.png)
 
 ### 各表结构如下：
 ![2](.\img\2.png)
