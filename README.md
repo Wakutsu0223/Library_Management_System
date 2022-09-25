@@ -1,4 +1,3 @@
-# Library_Management_System
 # Java课程设计 图书管理系统
 
 ![10](.\img\10.png)
