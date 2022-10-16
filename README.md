@@ -33,5 +33,3 @@
 ![8](https://s1.328888.xyz/2022/09/25/VfMmm.png)
 ![9](https://s1.328888.xyz/2022/09/25/VfPk7.png)
 
-## 详细介绍：
-https://smmradch.github.io/2022/08/16/Java%E8%AF%BE%E8%AE%BE-%E5%9B%BE%E4%B9%A6%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/
